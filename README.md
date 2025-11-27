@@ -10,4 +10,4 @@ The signature of this function is:
 So, this function returns a line from the file represented by 'fd'. Subsequent
 calls to this function will return subsequent lines from the file.
 
----- End of README.txt ----
+---- End of README ----
